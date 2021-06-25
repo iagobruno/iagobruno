@@ -36,6 +36,7 @@
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px" height="30px" title="VS Code" alt="Visual Studio Code Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="30px" height="30px" title="Chrome" alt="Google Chrome Logo"/>
+<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/insomnia-icon.png" width="30px" height="30px" title="Insomnia" alt="Insomnia App Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" height="30px" title="GitHub" alt="GitHub Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="30px" height="30px" title="Heroku" alt="Heroku Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="30px" height="30px" title="Google Cloud" alt="Google Cloud Plataform Logo"/>
