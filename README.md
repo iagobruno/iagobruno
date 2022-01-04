@@ -49,10 +49,12 @@ Check out my other skills below:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30px" height="30px" title="Redis" alt="Redis Logo"/>
 </p>
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagobruno&count_private=true&include_all_commits=true&hide=stars&show_icons=true&theme=dark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagobruno&hide=html&langs_count=6&layout=compact&theme=dark">
-</div>
+<table>
+  <tr>
+    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagobruno&count_private=true&include_all_commits=true&hide=stars&show_icons=true&theme=dark"></td>
+    <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagobruno&hide=html&langs_count=6&layout=compact&theme=dark"></td>
+  </tr>
+</table>
 
 <!--
 **iagobruno/iagobruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
