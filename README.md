@@ -1,3 +1,11 @@
+#### Hey, I'm Iago! 👋
+I'm 25 years old and currently live in Ceará, Brazil.  
+I've been passionate about codes more than 8 years and I learned everything I know on my own, driven by the curiosity to know how the web worked.
+
+JavaScript is the language I'm most confident to work with (both on client and server side) and currently I'm studying PHP with Laravel to expand my knowledge.
+
+Check out my other skills below:
+
 ## Languages
 
 <p>
@@ -5,7 +13,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30px" height="30px" title="PHP" alt="PHP Logo"/>
 </p>
 
-## Technologies
+## Technologies and tools
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px" height="30px" title="NodeJS" alt="NodeJS Logo"/>
@@ -20,6 +28,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="30px" height="30px" title="GraphQL" alt="GraphQL Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="30px" height="30px" title="Jest" alt="Jest Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" height="30px" title="Git" alt="Git Logo"/>
+<img src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" width="30px" height="30px" title="GitHub" alt="GitHub Logo"/>
+<img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" width="30px" height="30px" title="GitHub" alt="GitHub Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30px" height="30px" title="HTML" alt="HTML5 Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30px" height="30px" title="CSS" alt="CSS3 Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="30px" height="30px" title="jQuery" alt="jQuery Logo"/>
@@ -27,6 +37,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" width="30px" height="30px" title="Less" alt="Less Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="30px" height="30px" title="Yarn" alt="Yarn Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="30px" height="30px" title="npm" alt="Node Package Manager Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px" height="30px" title="VS Code" alt="Visual Studio Code Logo"/>
 </p>
 
 ## Databases
@@ -38,19 +49,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30px" height="30px" title="Redis" alt="Redis Logo"/>
 </p>
 
-## Work tools
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px" height="30px" title="VS Code" alt="Visual Studio Code Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="30px" height="30px" title="Chrome" alt="Google Chrome Logo"/>
-<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/insomnia-icon.png" width="30px" height="30px" title="Insomnia" alt="Insomnia App Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" height="30px" title="GitHub" alt="GitHub Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="30px" height="30px" title="Heroku" alt="Heroku Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="30px" height="30px" title="Google Cloud" alt="Google Cloud Plataform Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="30px" height="30px" title="Adobe XD" alt="Adobe Experience Design Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30px" height="30px" title="Photoshop" alt="Photoshop Logo"/>
-</p>
-
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagobruno&count_private=true&include_all_commits=true&hide=stars&show_icons=true&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagobruno&hide=html&langs_count=6&layout=compact&theme=dark">
+</div>
 
 <!--
 **iagobruno/iagobruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
