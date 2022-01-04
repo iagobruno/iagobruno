@@ -1,5 +1,5 @@
 #### Hey, I'm Iago! 👋
-I'm 25 years old and currently live in Ceará, Brazil.  
+I'm 25 years old and currently live in Ceará, Brazil. :brazil:  
 I've been passionate about codes more than 8 years and I learned everything I know on my own, driven by the curiosity to know how the web worked.
 
 JavaScript is the language I'm most confident to work with (both on client and server side) and currently I'm studying PHP with Laravel to expand my knowledge.
@@ -17,14 +17,14 @@ Check out my other skills below:
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px" height="30px" title="NodeJS" alt="NodeJS Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="30px" height="30px" title="Laravel" alt="Laravel Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30px" height="30px" title="Docker" alt="Docker Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px" height="30px" title="TypeScript" alt="TypeScript Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" height="30px" title="React" alt="ReactJS Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="30px" height="30px" title="Redux" alt="Redux Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="30px" height="30px" title="NextJS" alt="NextJS Logo"/>
-<img src="https://user-images.githubusercontent.com/76392681/118611629-b0174280-b7da-11eb-83f2-1d119bd786be.png" width="24px" height="30px" title="Svelte" alt="Svelte Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="30px" height="30px" title="Laravel" alt="Laravel Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30px" height="30px" title="Docker" alt="Docker Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="30px" height="30px" title="AdonisJS" alt="AdonisJS Logo"/>
+<img src="https://user-images.githubusercontent.com/76392681/118611629-b0174280-b7da-11eb-83f2-1d119bd786be.png" width="24px" height="30px" title="Svelte" alt="Svelte Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="30px" height="30px" title="GraphQL" alt="GraphQL Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="30px" height="30px" title="Jest" alt="Jest Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" height="30px" title="Git" alt="Git Logo"/>
@@ -35,7 +35,6 @@ Check out my other skills below:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="30px" height="30px" title="jQuery" alt="jQuery Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30px" height="30px" title="SASS" alt="SASS Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" width="30px" height="30px" title="Less" alt="Less Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="30px" height="30px" title="Yarn" alt="Yarn Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="30px" height="30px" title="npm" alt="Node Package Manager Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px" height="30px" title="VS Code" alt="Visual Studio Code Logo"/>
 </p>
@@ -51,8 +50,12 @@ Check out my other skills below:
 
 <table>
   <tr>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagobruno&count_private=true&include_all_commits=true&hide=stars&show_icons=true&theme=dark"></td>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagobruno&hide=html&langs_count=6&layout=compact&theme=dark"></td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagobruno&hide=html&langs_count=6&layout=compact&theme=dark">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=iagobruno&count_private=true&include_all_commits=true&hide=stars&show_icons=true&theme=dark">
+    </td>
   </tr>
 </table>
 
