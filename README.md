@@ -10,7 +10,7 @@ Check out my other skills below:
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" height="30px" title="JavaScript" alt="JavaScript Logo"/>
-<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30px" height="30px" title="PHP" alt="PHP Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30px" height="30px" title="PHP" alt="PHP Logo"/>
 </p>
 
 ## Technologies and tools
