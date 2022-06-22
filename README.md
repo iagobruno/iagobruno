@@ -24,7 +24,7 @@ Check out my other skills below:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="30px" height="30px" title="Laravel" alt="Laravel Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30px" height="30px" title="Docker" alt="Docker Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="30px" height="30px" title="AdonisJS" alt="AdonisJS Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="24px" height="30px" title="Vue" alt="Vue Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30px" height="30px" title="Vue" alt="Vue Logo"/>
 <img src="https://user-images.githubusercontent.com/76392681/118611629-b0174280-b7da-11eb-83f2-1d119bd786be.png" width="24px" height="30px" title="Svelte" alt="Svelte Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="30px" height="30px" title="GraphQL" alt="GraphQL Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="30px" height="30px" title="Jest" alt="Jest Logo"/>
