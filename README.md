@@ -1,6 +1,6 @@
 #### Hey there, I'm Iago! 👋
-I'm 25 years old and currently live in Ceará, Brazil. :brazil:  
-I've been passionate about codes more than 8 years and I learned everything I know by my self, driven by the curiosity to know how the web works.
+I'm 26 years old and currently live in Ceará, Brazil. :brazil:  
+I've been passionate about programming more than 8 years and I learned everything I know by my self, driven by the curiosity to know how the web works.
 
 JavaScript is the language I'm most confident to work with (both on client and server side) and currently I'm studying PHP with Laravel to expand my knowledge.
 
