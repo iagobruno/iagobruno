@@ -4,7 +4,7 @@ I've been passionate about programming more than 8 years and I learned everythin
 
 JavaScript is the language I'm most confident to work with (both on client and server side) and currently I'm studying PHP with Laravel to expand my knowledge.
 
-Check out my other skills below:
+Check out my other skills below 👇
 
 ## Languages
 
@@ -26,6 +26,7 @@ Check out my other skills below:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="30px" height="30px" title="AdonisJS" alt="AdonisJS Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30px" height="30px" title="Vue" alt="Vue Logo"/>
 <img src="https://user-images.githubusercontent.com/76392681/118611629-b0174280-b7da-11eb-83f2-1d119bd786be.png" width="24px" height="30px" title="Svelte" alt="Svelte Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30px" height="30px" title="TailwindCSS" alt="Tailwind Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="30px" height="30px" title="GraphQL" alt="GraphQL Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="30px" height="30px" title="Jest" alt="Jest Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" height="30px" title="Git" alt="Git Logo"/>
@@ -33,7 +34,6 @@ Check out my other skills below:
 <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" width="30px" height="30px" title="GitHub" alt="GitHub Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30px" height="30px" title="HTML" alt="HTML5 Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30px" height="30px" title="CSS" alt="CSS3 Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="30px" height="30px" title="jQuery" alt="jQuery Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30px" height="30px" title="SASS" alt="SASS Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" width="30px" height="30px" title="Less" alt="Less Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="30px" height="30px" title="npm" alt="Node Package Manager Logo"/>
