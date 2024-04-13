@@ -1,3 +1,9 @@
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:iagobruno.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iagobruno-dev)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5588997174708)
+
+---
+
 #### Hey there, I'm Iago! 👋
 I'm 27 years old and currently live in Ceará, Brazil. :brazil:  
 I've been passionate about programming more than 8 years and I learned everything I know by my self, driven by the curiosity to know how the web works.
