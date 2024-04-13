@@ -20,13 +20,13 @@ Check out my other skills below 👇
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px" height="30px" title="TypeScript" alt="TypeScript Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" height="30px" title="React" alt="ReactJS Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="30px" height="30px" title="Redux" alt="Redux Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="30px" height="30px" title="NextJS" alt="NextJS Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="30px" height="30px" title="Laravel" alt="Laravel Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30px" height="30px" title="NextJS" alt="NextJS Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="30px" height="30px" title="Laravel" alt="Laravel Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30px" height="30px" title="Docker" alt="Docker Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="30px" height="30px" title="AdonisJS" alt="AdonisJS Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30px" height="30px" title="Vue" alt="Vue Logo"/>
 <img src="https://user-images.githubusercontent.com/76392681/118611629-b0174280-b7da-11eb-83f2-1d119bd786be.png" width="24px" height="30px" title="Svelte" alt="Svelte Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30px" height="30px" title="TailwindCSS" alt="Tailwind Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30px" height="30px" title="TailwindCSS" alt="Tailwind Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="30px" height="30px" title="GraphQL" alt="GraphQL Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="30px" height="30px" title="Jest" alt="Jest Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" height="30px" title="Git" alt="Git Logo"/>
