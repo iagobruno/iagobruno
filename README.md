@@ -1,4 +1,4 @@
-### Hey there, I'm Iago! 👋
+### Hey there, I'm Iago! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">
 I'm a full-stack developer from Ceará, Brazil.   
 I've been passionate about programming more than 8 years and I learned everything I know by my self, driven by the curiosity to know how the web works.
 
