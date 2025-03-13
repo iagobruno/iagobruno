@@ -60,14 +60,16 @@ Check out my other skills below 👇
 ---
 
 <p align="center">
-<a href="mailto:iagobruno.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/iagobruno-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/iagobruno.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&amp;logo=instagram&amp;logoColor=white" alt="Instagram"></a>
-<a href="https://wa.me/558897174708"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&amp;logo=whatsapp&amp;logoColor=white" alt="WhatsApp"></a>
+  <a href="mailto:iagobruno.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/iagobruno-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/iagobruno.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&amp;logo=instagram&amp;logoColor=white" alt="Instagram"></a>
+  <a href="https://wa.me/558897174708"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&amp;logo=whatsapp&amp;logoColor=white" alt="WhatsApp"></a>
+  <br/><br/>
+  ✨ <a href="https://iagobruno.is-a.dev/">iagobruno.is-a.dev</a> ✨
 </p>
-
+<br/>
 <p align="center">
-<a href="https://iagobruno.is-a.dev/">iagobruno.is-a.dev</a>
+  <img src="https://komarev.com/ghpvc/?username=iagobruno&color=006bed">
 </p>
 
 
