@@ -1,8 +1,8 @@
 ### Hey there, I'm Iago! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">
 I'm a full-stack developer from Ceará, Brazil.   
-I've been passionate about programming more than 8 years and I learned everything I know by my self, driven by the curiosity to know how the web works.
+I've been passionate about programming more than 10 years and I learned everything I know by my self, driven by the curiosity to know how the web works.
 
-JavaScript is the language I'm most confident to work with (both on client and server side) and currently I'm studying PHP with Laravel to expand my knowledge.
+I have extensive experience with JavaScript (both client and server side) and PHP using Laravel, but I'm always looking to expand my knowledge.
 
 Check out my other skills below 👇
 
@@ -23,7 +23,7 @@ Check out my other skills below 👇
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="35px" height="35px" title="NextJS" alt="NextJS Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35px" height="35px" title="React" alt="ReactJS Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="35px" height="35px" title="Vue" alt="Vue Logo"/>
-<img src="https://user-images.githubusercontent.com/76392681/118611629-b0174280-b7da-11eb-83f2-1d119bd786be.png" height="35px" title="Svelte" alt="Svelte Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" height="35px" title="Nuxt" alt="Nuxt Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="35px" height="35px" title="TailwindCSS" alt="Tailwind Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="35px" height="35px" title="Vite" alt="Vite Logo"/>
 <img src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" width="35px" height="35px" title="GitHub" alt="GitHub Logo"/>
