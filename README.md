@@ -23,7 +23,7 @@ Check out my other skills below 👇
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="35px" height="35px" title="NextJS" alt="NextJS Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35px" height="35px" title="React" alt="ReactJS Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="35px" height="35px" title="Vue" alt="Vue Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" height="35px" title="Nuxt" alt="Nuxt Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" width="35px" height="35px" title="Nuxt" alt="Nuxt Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="35px" height="35px" title="TailwindCSS" alt="Tailwind Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="35px" height="35px" title="Vite" alt="Vite Logo"/>
 <img src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" width="35px" height="35px" title="GitHub" alt="GitHub Logo"/>
