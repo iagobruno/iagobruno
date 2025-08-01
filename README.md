@@ -65,7 +65,7 @@ Check out my other skills below 👇
   <a href="https://www.instagram.com/iagobruno.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&amp;logo=instagram&amp;logoColor=white" alt="Instagram"></a>
   <a href="https://wa.me/558897174708"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&amp;logo=whatsapp&amp;logoColor=white" alt="WhatsApp"></a>
   <br/><br/>
-  ✨ <a href="https://iagobruno.is-a.dev/">iagobruno.is-a.dev</a> ✨
+  ✨ <a href="https://iagobruno.dev/">iagobruno.dev</a> ✨
 </p>
 <br/>
 <p align="center">
