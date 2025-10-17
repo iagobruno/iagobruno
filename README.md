@@ -1,4 +1,11 @@
-### Hey there, I'm Iago! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">
+<h3>
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22"><br>
+  I'm 
+  <a href="#">
+    <img src="https://iagobruno.dev/iago-animated.svg?q" height="20" valign="middle">
+  </a>
+</h3>
+
 I'm a full-stack developer from Ceará, Brazil.   
 I've been passionate about programming more than 10 years and I learned everything I know by my self, driven by the curiosity to know how the web works.
 
@@ -67,9 +74,6 @@ Check out my other skills below 👇
   <a href="https://wa.me/558897174708"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&amp;logo=whatsapp&amp;logoColor=white" alt="WhatsApp"></a>
   <br/><br/>
   ✨ <a href="https://iagobruno.dev/">iagobruno.dev</a> ✨
-<br/>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iagobruno&color=006bed">
 </p>
 
 
