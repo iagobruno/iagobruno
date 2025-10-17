@@ -1,8 +1,8 @@
 <h3>
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22"><br>
-  I'm 
+  Hey there 👋<br>
+  I'm
   <a href="#">
-    <img src="https://iagobruno.dev/iago-animated.svg?q" height="19">
+    <img src="https://iagobruno.dev/iago-animated.svg?q" height="19" valign="middle">
   </a>
 </h3>
 
