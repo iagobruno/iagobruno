@@ -7,7 +7,7 @@
 </h3>
 
 I'm a full-stack developer from Ceará, Brazil.   
-I've been passionate about programming more than 10 years and I learned everything I know by my self, driven by the curiosity to know how the web works.
+I've been passionate about programming **more than 10 years** and I learned everything I know by my self, driven by the curiosity to know how the web works.
 
 I have extensive experience with JavaScript (both client and server side) and PHP using Laravel, but I'm always looking to expand my knowledge.
 
