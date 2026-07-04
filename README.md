@@ -54,13 +54,13 @@ Check out my other skills below 👇
 
 ---
 
-<table>
+<table align="center" border="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagobruno&hide=html&langs_count=6&layout=compact&theme=dark">
+      <img src="https://streak-stats.demolab.com/?user=iagobruno&theme=dark&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&border=FF9900&card_height=170">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=iagobruno&count_private=true&include_all_commits=true&hide=stars&show_icons=true&theme=dark">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=iagobruno&layout=compact&langs_count=6&theme=dark">
     </td>
   </tr>
 </table>
@@ -68,7 +68,7 @@ Check out my other skills below 👇
 ---
 
 <p align="center">
-  <a href="mailto:iagobruno.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
+  <a href="mailto:contato@iagobruno.dev"><img src="https://img.shields.io/badge/Email-D14836?style=flat&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/iagobruno"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/iagobruno.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&amp;logo=instagram&amp;logoColor=white" alt="Instagram"></a>
   <a href="https://wa.me/558897174708"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&amp;logo=whatsapp&amp;logoColor=white" alt="WhatsApp"></a>
