@@ -6,27 +6,27 @@
   </a>
 </h3>
 
-I'm a full-stack developer from Ceará, Brazil.   
+I'm a full-stack developer from Ceará, Brasil.   
 I've been passionate about programming **more than 10 years** and I learned everything I know by my self, driven by the curiosity to know how the web works.
 
 I have extensive experience with JavaScript (both client and server side) and PHP using Laravel, but I'm always looking to expand my knowledge.
 
-Check out my other skills below 👇
+_Check out my other technical skills below_ 👇
 
-## Languages
+### Backend
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35px" height="35px" title="JavaScript" alt="JavaScript Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35px" height="35px" title="TypeScript" alt="TypeScript Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35px" height="35px" title="NodeJS" alt="NodeJS Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="35px" height="35px" title="Laravel" alt="Laravel Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="35px" height="35px" title="Wordpress" alt="Wordpress" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35px" height="35px" title="PHP" alt="PHP Logo"/>
 </p>
 
-## Technologies and tools
+### Frontend
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35px" height="35px" title="NodeJS" alt="NodeJS Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35px" height="35px" title="TypeScript" alt="TypeScript Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="35px" height="35px" title="Laravel" alt="Laravel Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35px" height="35px" title="Docker" alt="Docker Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="35px" height="35px" title="NextJS" alt="NextJS Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35px" height="35px" title="React" alt="ReactJS Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="35px" height="35px" title="Vue" alt="Vue Logo"/>
@@ -34,44 +34,54 @@ Check out my other skills below 👇
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="35px" height="35px" title="TailwindCSS" alt="Tailwind Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="35px" height="35px" title="Bun" alt="Bun Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="35px" height="35px" title="Vite" alt="Vite Logo"/>
-<img src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" width="35px" height="35px" title="GitHub" alt="GitHub Logo"/>
-<img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" width="35px" height="35px" title="GitHub" alt="GitHub Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35px" height="35px" title="Git" alt="Git Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="35px" height="35px" title="HTML" alt="HTML5 Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="35px" height="35px" title="CSS" alt="CSS3 Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35px" height="35px" title="VS Code" alt="Visual Studio Code Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="35px" height="35px" title="Figma" alt="Figma Logo"/>
+<img src="https://iagobruno.dev/icons/gsap-light.png" width="35px" height="35px" title="GSAP" alt="GSAP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30px" height="30px" title="HTML" alt="HTML5 Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30px" height="30px" title="CSS" alt="CSS3 Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="35px" height="35px" title="SASS" />
 </p>
 
-## Databases
+### Databases
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35px" height="35px" title="PostgreSQL" alt="PostgreSQL Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35px" height="35px" title="MySQL" alt="MySQL Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35px" height="35px" title="MongoDB" alt="Mongo Database Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="35px" height="35px" title="Redis" alt="Redis Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="35px" height="35px" title="Supabase" alt="Supabase Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="35px" height="35px" title="Firebase" alt="Firebase Logo"/>
+</p>
+
+
+### Other tools
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35px" height="35px" title="Docker" alt="Docker Logo"/>
+<img src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" width="35px" height="35px" title="GitHub" alt="GitHub Logo"/>
+<img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" width="35px" height="35px" title="GitHub" alt="GitHub Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="35px" height="35px" title="GitHub Actions" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35px" height="35px" title="Git" alt="Git Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="35px" height="35px" title="Jest" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35px" height="35px" title="VS Code" alt="Visual Studio Code Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="35px" height="35px" title="Postman" alt="Postman Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="35px" height="35px" title="Figma" alt="Figma Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="35px" height="35px" title="Linux" alt="Linux" />
 </p>
 
 ---
 
-<table align="center" border="0">
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-card.vercel.app/?user=iagobruno&theme=dark&border=FF9900&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&card_height=170&mode=weekly">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-card.vercel.app/?user=iagobruno&background=fcf9db&border=FF9900&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&card_height=170&mode=weekly">
-        <img src="">
-      </picture>
-    </td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=iagobruno&layout=compact&langs_count=6&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=iagobruno&layout=compact&langs_count=6&theme=default">
-        <img src="">
-      </picture>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-card.vercel.app/?user=iagobruno&theme=dark&border=FF9900&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&card_height=170&mode=weekly">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-card.vercel.app/?user=iagobruno&background=fcf9db&border=FF9900&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&card_height=170&mode=weekly">
+    <img src="">
+  </picture>
+‎‎ ‎ ‎ 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=iagobruno&layout=compact&langs_count=6&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=iagobruno&layout=compact&langs_count=6&theme=default">
+    <img src="">
+  </picture>
+</p>
 
 ---
 
