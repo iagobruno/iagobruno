@@ -57,10 +57,18 @@ Check out my other skills below 👇
 <table align="center" border="0">
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=iagobruno&theme=dark&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&border=FF9900&card_height=170&mode=weekly">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-card.vercel.app/?user=iagobruno&theme=dark&border=FF9900&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&card_height=170&mode=weekly">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-card.vercel.app/?user=iagobruno&background=fcf9db&border=FF9900&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&card_height=170&mode=weekly">
+        <img src="">
+      </picture>
     </td>
     <td>
-      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=iagobruno&layout=compact&langs_count=6&theme=dark">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=iagobruno&layout=compact&langs_count=6&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=iagobruno&layout=compact&langs_count=6&theme=default">
+        <img src="">
+      </picture>
     </td>
   </tr>
 </table>
