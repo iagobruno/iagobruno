@@ -6,7 +6,7 @@
   </a>
 </h3>
 
-I'm a full-stack developer from Ceará, Brasil.   
+I'm a full-stack developer from Brasil.   
 I've been passionate about programming **more than 10 years** and I learned everything I know by my self, driven by the curiosity to know how the web works.
 
 I have extensive experience with JavaScript (both client and server side) and PHP using Laravel, but I'm always looking to expand my knowledge.
@@ -31,10 +31,12 @@ _Check out my other technical skills below_ 👇
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35px" height="35px" title="React" alt="ReactJS Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="35px" height="35px" title="Vue" alt="Vue Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" width="35px" height="35px" title="Nuxt" alt="Nuxt Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="35px" height="35px" title="TailwindCSS" alt="Tailwind Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" width="34px" height="34px" title="Svelte" alt="Svelte Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="35px" height="35px" title="Bun" alt="Bun Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="35px" height="35px" title="Vite" alt="Vite Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="35px" height="35px" title="TailwindCSS" alt="Tailwind Logo"/>
 <img src="https://iagobruno.dev/icons/gsap-light.png" width="35px" height="35px" title="GSAP" alt="GSAP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" width="32px" height="32px" title="WebSockets" alt="WebSockets"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30px" height="30px" title="HTML" alt="HTML5 Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30px" height="30px" title="CSS" alt="CSS3 Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="35px" height="35px" title="SASS" />
@@ -56,9 +58,9 @@ _Check out my other technical skills below_ 👇
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35px" height="35px" title="Docker" alt="Docker Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="35px" height="35px" title="GitHub Actions" />
 <img src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" width="35px" height="35px" title="GitHub" alt="GitHub Logo"/>
 <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" width="35px" height="35px" title="GitHub" alt="GitHub Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="35px" height="35px" title="GitHub Actions" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35px" height="35px" title="Git" alt="Git Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="35px" height="35px" title="Jest" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35px" height="35px" title="VS Code" alt="Visual Studio Code Logo"/>
