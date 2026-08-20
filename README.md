@@ -5,19 +5,19 @@
     <img src="https://iagobruno.dev/iago-animated.svg?q" height="19" width="99" valign="middle">
   </a>
 </h3>
+ 
+I'm a Senior Software Engineer, mostly focused on Full-Stack web development.  
+I've been passionate about programming for **more than 10 years**, and I learned everything I know by myself, driven by my curiosity to understand how the web works.
 
-I'm a full-stack developer from Brasil.   
-I've been passionate about programming **more than 10 years** and I learned everything I know by my self, driven by the curiosity to know how the web works.
-
-I have extensive experience with JavaScript (both client and server side) and PHP using Laravel, but I'm always looking to expand my knowledge.
+I have extensive experience building scalable web apps and working across the entire product development lifecycle, with a special focus on user experience and responsive interfaces.
 
 _Check out my other technical skills below_ 👇
 
 ### Backend
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35px" height="35px" title="JavaScript" alt="JavaScript Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35px" height="35px" title="TypeScript" alt="TypeScript Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35px" height="35px" title="JavaScript" alt="JavaScript Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35px" height="35px" title="NodeJS" alt="NodeJS Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="35px" height="35px" title="Laravel" alt="Laravel Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="35px" height="35px" title="Wordpress" alt="Wordpress" />
@@ -32,7 +32,7 @@ _Check out my other technical skills below_ 👇
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="35px" height="35px" title="Vue" alt="Vue Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" width="35px" height="35px" title="Nuxt" alt="Nuxt Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" width="34px" height="34px" title="Svelte" alt="Svelte Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="35px" height="35px" title="Bun" alt="Bun Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" width="34px" height="34px" title="Astro" alt="Astro Logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="35px" height="35px" title="Vite" alt="Vite Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="35px" height="35px" title="TailwindCSS" alt="Tailwind Logo"/>
 <img src="https://iagobruno.dev/icons/gsap-light.png" width="35px" height="35px" title="GSAP" alt="GSAP"/>
@@ -63,18 +63,28 @@ _Check out my other technical skills below_ 👇
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="35px" height="35px" title="GitHub Actions" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35px" height="35px" title="Git" alt="Git Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="35px" height="35px" title="Jest" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="35px" height="35px" title="Bun" alt="Bun Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35px" height="35px" title="VS Code" alt="Visual Studio Code Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="35px" height="35px" title="Postman" alt="Postman Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="35px" height="35px" title="Figma" alt="Figma Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="35px" height="35px" title="Linux" alt="Linux" />
 </p>
 
+<!--
+### IA & LLMs
+
+![](https://img.shields.io/badge/Claude-000?style=for-the-badge&logo=anthropic)
+![](https://img.shields.io/badge/OpenCode-000?style=for-the-badge&logo=opencode)
+![](https://img.shields.io/badge/ChatGPT-000?style=for-the-badge&logo=codewars)
+![](https://img.shields.io/badge/Copilot-000?style=for-the-badge&logo=githubcopilot)
+-->
+
 ---
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-card.vercel.app/?user=iagobruno&theme=dark&border=FF9900&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&card_height=170&mode=weekly">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-card.vercel.app/?user=iagobruno&background=fcf9db&border=FF9900&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&card_height=170&mode=weekly">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-4rl8.vercel.app/?user=iagobruno&theme=dark&border=FF9900&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&card_height=170&mode=weekly">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-4rl8.vercel.app/?user=iagobruno&background=fcf9db&border=FF9900&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&card_height=170&mode=weekly">
     <img src="">
   </picture>
 ‎‎ ‎ ‎ 
@@ -95,19 +105,3 @@ _Check out my other technical skills below_ 👇
   <br/><br/>
   ✨ <a href="https://iagobruno.dev/">iagobruno.dev</a> ✨
 </p>
-
-
-<!--
-**iagobruno/iagobruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
